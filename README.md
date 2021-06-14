@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 功能点
+- [x] todo列表
+- [x] 添加todo
+- [x] 更新/修改todo
+- [x] 删除todo
+- [x] 筛选状态 完成/未完成/已删除
+- [x] 数据持久化
